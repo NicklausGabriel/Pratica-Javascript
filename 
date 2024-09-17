@@ -1,0 +1,72 @@
+[33mcommit 9188bd49fc9101e58dc15affe0870c9d21c22169[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mexerciciosFuncoes[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 16:19:03 2024 -0300
+
+    finalizados exercicios estruturas de comparacao e repeticao
+
+[33mcommit e106e209d94d2cd28a3d3db3917e9f13bddeeb03[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 15:11:00 2024 -0300
+
+    exercicios condicionais, 1 ao 6
+
+[33mcommit b4b8bcf0b2e72de660fab269468559ccb479fc50[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 11:31:34 2024 -0300
+
+    exercicio 4 5
+
+[33mcommit aba357f62d90c33c58063dbf17e3fb2bdba50bca[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:58:37 2024 -0300
+
+    exercicio 3 tipo booleano
+
+[33mcommit fc075c7bf8805560917f996f239819de7d9939d3[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:50:37 2024 -0300
+
+    exercicio 1 e 2, tipos de dados, string e numbers
+
+[33mcommit d763e897461fbfb6b104a10b997747fedc4585ef[m
+Merge: 384203b 7812fa5
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:44:46 2024 -0300
+
+    Merge branch 'develop'
+
+[33mcommit 7812fa55dec198882ded0a90e67bfce6ea4a624c[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:36:47 2024 -0300
+
+    add exercicio 1 tipos de dados string
+
+[33mcommit 69753265ca372080e562a35a4f10c2d28048f7c2[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:23:40 2024 -0300
+
+    Exercios dois tipos dados numericos
+
+[33mcommit 384203b0fd7f1f002b06c342366e0a092b0e14b4[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Mon Sep 16 10:14:42 2024 -0300
+
+    exercicio tipos de dados.
+
+[33mcommit 7bcd17d168904d80caadf81a178cb5f84d5b77e2[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Fri Sep 13 16:22:03 2024 -0300
+
+    add exercicio calcular raiz usando baskara
+
+[33mcommit c088ed2019b3e7eca9ad837e602fb9a108ba4388[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Fri Sep 13 15:32:11 2024 -0300
+
+    Criando Pasta de exercicios, finalizado exercicios calculando nota final
+
+[33mcommit ee712d504cd4d669ebb36f34debfd6b28fea5dce[m
+Author: Gabriel Avelar <gabriel.avelar@parcelaexpress.com.br>
+Date:   Fri Sep 13 10:44:19 2024 -0300
+
+    Primeiro Commit
