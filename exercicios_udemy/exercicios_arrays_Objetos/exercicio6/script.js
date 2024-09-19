@@ -6,3 +6,4 @@ function interactingArray(arr){
     });
 }
 interactingArray(arr)
+arr.length()
